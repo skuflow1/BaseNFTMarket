@@ -1,7 +1,7 @@
 // base-nft-marketplace/scripts/performance.js
 const { ethers } = require("hardhat");
 const fs = require("fs");
-
+//
 async function analyzeNFTMarketplacePerformance() {
   console.log("Analyzing performance for Base NFT Marketplace...");
   
